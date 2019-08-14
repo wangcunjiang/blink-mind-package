@@ -4,7 +4,7 @@ Now only provide the Chinese version. The English version will be provided in th
 
 # 简介
 
-Awesome outliner 是一款大纲笔记app,所有的数据都保存在本地。
+Awesome outliner 是一款大纲笔记app,所有的数据都保存在本地。由于软件尚处于开发中，不保证后续版本的数据格式兼容现在的版本。
 
 软件的主界面如下:
 ![image](./screenshots/dashboard.jpg)
@@ -34,6 +34,7 @@ Awesome outliner 是一款大纲笔记app,所有的数据都保存在本地。
 在我的文档界面中点击新建按钮，弹出新建文件和新建文件夹菜单。
 
 ![image](./screenshots/create-doc.jpg)
+
 点击新建文件按钮创建一个新的文档，点击新建文件夹按钮则创建一个新的文件夹。
 
 多层文件夹嵌套可以通过上方的文件夹导航栏进行跳转。
@@ -50,6 +51,7 @@ Awesome outliner 是一款大纲笔记app,所有的数据都保存在本地。
 ![image](./screenshots/file-context-menu.jpg)
 
 点击删除按钮会弹出对话框
+
 ![image](./screenshots/remove-file-to-trash.jpg)
 
 ## 文档编辑
@@ -122,3 +124,14 @@ Awesome outliner 是一款大纲笔记app,所有的数据都保存在本地。
 1. 文档和文件夹的移动操作
 2. 文件内容搜索
 3. 撤销和重做（描述项编辑的撤销和重做有，但是整体上操作条目的撤销和重做暂时没有）
+
+# 后续规划（roadmap）
+
+以下并不是按照优先级来列举
+
+1. 文档和文件夹的移动操作
+2. 文件内容搜索
+3. 撤销和重做（描述项编辑的撤销和重做有，但是整体上操作条目的撤销和重做暂时没有）
+4. 描述项的富文本编辑器(类似于medium)
+5. 以思维导图形式查看和编辑文档 (关于这部分的探索新开了一个开源仓库https://github.com/awehook/blink-mind-react)
+6. 数据和网盘数据进行同步(dropbox 或者其他网盘)
