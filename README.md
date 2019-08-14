@@ -2,9 +2,13 @@ Awesome outliner is an outliner app. All data is stored locally.
 
 Now only provide the Chinese version. The English version will be provided in the next release. So the remaining part of the document will be written in Chinese. The English document and app will be provided in the next release.
 
+这个仓库提供Awesome outliner 安装包的下载地址，https://github.com/awehook/awesome-outliner-package/releases
+
 # 简介
 
 Awesome outliner 是一款大纲笔记app,所有的数据都保存在本地。由于软件尚处于开发中，不保证后续版本的数据格式兼容现在的版本。
+
+Awesome outliner 的构建过程中主要使用了以下开源库：[electron](https://github.com/electron/electron),[react](https://github.com/facebook/react),[draft.js](https://github.com/facebook/draft-js),[immutable.js](https://github.com/immutable-js/immutable-js),[pouchdb](https://github.com/pouchdb/pouchdb)
 
 软件的主界面如下:
 ![image](./screenshots/dashboard.jpg)
