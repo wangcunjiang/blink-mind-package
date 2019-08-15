@@ -73,7 +73,7 @@ Awesome outliner 的构建过程中主要使用了以下开源库：[electron](h
 
 ### 编辑器内部操作
 与[workflow](https://workflowy.com/) 非常类似。
-在某个条目下按enter 键新建一个兄弟节点。按tab 键将当前项变成其上面的兄弟节点的子节点。
+在某个条目下按enter 键新建一个兄弟节点。按tab 键将当前项变成其上面的兄弟节点的子节点。按shift+tab 键将当前项变成其父节点的兄弟节点。
 
 #### 编辑描述项
 
