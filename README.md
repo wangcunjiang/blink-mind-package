@@ -25,6 +25,8 @@ Awesome outliner 的构建过程中主要使用了以下开源库：[electron](h
 
 在软件第一次启动的时候，会有界面提示让用户选择数据的保存位置。选择一个电脑上的目录，之后所有的文档数据都以二进制格式存储在这个目录中。
 
+**如果在选择了数据存储目录之后没有进入主界面,可以点菜单 view-> force reload**
+
 在使用过程中也可以通过菜单->Preferences 打开首选项界面，设置数据存储目录和主题。
 
 ![image](./screenshots/preference.jpg)
