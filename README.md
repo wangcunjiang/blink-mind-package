@@ -10,4 +10,6 @@ BinkMindDesktop use the open source mind map libarary [BlinkMind](https://github
 
 ![image](https://github.com/awehook/images/raw/master/blink-mind-desktop/blink-mind-mindmap.png)
 
+![image](https://github.com/awehook/images/raw/master/blink-mind-desktop/blink-mind-mindmap-pink.png)
+
 ![image](https://github.com/awehook/images/raw/master/blink-mind-desktop/blink-mind-outliner.png)
