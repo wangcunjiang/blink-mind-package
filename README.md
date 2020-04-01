@@ -37,6 +37,8 @@ BinkMindDesktop use the open source mind map libarary [BlinkMind](https://github
 | Copy topics and paste  | on the way |  Copy multi topics including all the infomation(content,notes,tags and all attachment) and paste to another location(same document or another document).  |
 | Topic reference  | on the way |  Topics can reference each other and navigate conveniently. |
 | Markdown editor  | on the way |  When editing topic notes, you can choose use rich html editor or markdown editor, for users  who familiar and like markdown grammar. Markdown editor will support latex and mermaid.  |
+| Link curve between any two topics  | planing |  Link curve between any two topics  |
+| Manual layout diagram  | planing |  Manual layout diagram  |
 | Cloud Storage  | planing |  Save and open file from clound storage(icloud/onedrive/google drive).  |
 
 
